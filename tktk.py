@@ -95,7 +95,7 @@ print(blue+"""
 ╚═╝╚═╝╠╗║╚══╝╚╝─╚══╝╔╗╚╗║║╔═╗║
 ──────╚═╝───────────║╚═╝║║╚═╝║
 """,green+"\n                 Dev: DlyarG36)")
-url = https://vm.tiktok.com/ZSJCy4oMG/
+url = ("https://vm.tiktok.com/ZSJCy4oMG")
 Thread = 10009
 def get_id_vedio():
     headers = {
