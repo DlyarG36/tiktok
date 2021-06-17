@@ -1,6 +1,6 @@
 # tiktok
 سكربت رشق مشاهدات تيك توك
-//////الأوامر//////
+       الأوامر
 apt upgrade && update
 pkg install requests
 pkg install git
